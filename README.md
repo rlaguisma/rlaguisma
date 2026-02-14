@@ -4,7 +4,11 @@
 **Bachelor of Science in Information and Technology**
 
 ## Work
-**IT Specialist** | *Transitioning to Fullstack Developer*
+**Company | Compassion Internatinal Inc.,**
+
+**Possition| IT Specialist** | *Transitioning to Fullstack Developer*
+
+**Work Experience | 8 years up to present**
 
 ## Currently Learning
 Advanced tools for programming
